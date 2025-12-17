@@ -5,7 +5,7 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Rav-Mihiranga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"  />
 </p>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Full-Stack Web developer from Sri Lanka</h3>
 
 ---
 
@@ -13,44 +13,37 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, Python, HTML/CSS**
+- 💬 Ask me about **React, NodeJS, Java, Python, HTML/CSS**
 
 - 📫 How to reach me **ravindumw99@gmail.com**
 
-- ⚡ Fun fact **rav**
+- ⚡ Fun fact **ravii**
 
 ---
 
 
-## 💻 Technical Skills
+## 🛠 Tech Stack
 
-<img align="right" alt="Coding Animation" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+**Frontend Development**  
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Sass](https://skillicons.dev/icons?i=sass)
 
-### 🔧 Programming Languages
+**Backend Development**  
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PHP](https://skillicons.dev/icons?i=php)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+**Databases**  
+![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
+**Cloud & Hosting**  
+![Firebase](https://skillicons.dev/icons?i=firebase) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify) ![Heroku](https://skillicons.dev/icons?i=heroku) ![AWS](https://skillicons.dev/icons?i=aws)
 
+**APIs & Authentication**  
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?logo=swagger&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 
-### 🌐 Web Development
+**Tools & Platforms**  
+![VS Code](https://skillicons.dev/icons?i=vscode) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) ![WordPress](https://skillicons.dev/icons?i=wordpress)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&animation=fadeIn)
-
-
-### 📊 Databases
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&animation=fadeIn)
-
-### 🛠 Tools & Platforms
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+**Programming Languages**  
+![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Dart](https://skillicons.dev/icons?i=dart) ![C](https://skillicons.dev/icons?i=c) ![PHP](https://skillicons.dev/icons?i=php)
 
 ---
 
